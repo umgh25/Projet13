@@ -1,0 +1,13 @@
+.chat-container {
+  width: 600px;
+  margin: 30px auto;
+  font-family: Arial;
+}
+
+.messages-box {
+  border: 1px solid #ccc;
+  height: 300px;
+  overflow-y: auto;
+  margin: 10px 0;
+  padding: 10px;
+}
